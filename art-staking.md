@@ -77,7 +77,7 @@ To allow users to stake USTC, **but only as much as their equivalent staked ART 
   * Fully on-chain, no voucher handling
 * **Disadvantages:**
 
-  * Need to provide some lunc for push gas fee. Estimation gas fee each push: 20 lunc, for 1 hour update, we need 480 lunc each day. The update interval can be adjusted if the art token traffic is high.
+  * Need to provide some lunc for push gas fee. Estimation gas fee each push: 20 lunc, for 1 hour update, we need 480 lunc each day. The update interval can be adjusted if the ART token traffic is high.
 
 ---
 
